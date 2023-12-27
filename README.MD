@@ -1,4 +1,4 @@
-# Swit Client for remove.bg
+# Swift client for remove.bg
 
 [![SwiftPM compatible](https://img.shields.io/badge/SwiftPM-compatible-brightgreen.svg)](https://swift.org/package-manager/)
 ![Tests](https://github.com/pzmudzinski/remove-bg/actions/workflows/tests.yml/badge.svg)
@@ -11,9 +11,10 @@ It simplifies the integration of remove.bg's functionality into Swift-based proj
 
 ## Features
 
-- Covers all available configuration options,
-- `async`/`await` API,
-- iOS and MacOS support
+- Covers [all available configuration options](https://www.remove.bg/api#api-reference).
+- `async`/`await` API.
+- iOS and MacOS support.
+- No external dependencies.
 
 ## Requirements
 
